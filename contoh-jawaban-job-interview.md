@@ -10,6 +10,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 
 ## 1.3. Branding
 •  nama merk: pizzjo
+
 •  tagline: "viva la pizza"
 •  target user:
    Usia 18+
