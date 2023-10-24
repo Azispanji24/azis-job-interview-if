@@ -1,4 +1,4 @@
-z## 1.1 Latar Belakang
+## 1.1 Latar Belakang
 
 Perkembangan dalam bidang digital marketing terus berlanjut seiring dengan evolusi teknologi, perilaku konsumen, dan strategi pemasaran. Perkembangan digital marketing ini mencerminkan perubahan dalam perilaku konsumen dan teknologi yang semakin canggih. Pemasar yang sukses harus tetap up-to-date dengan tren ini dan mampu beradaptasi dengan cepat.
 
@@ -36,9 +36,7 @@ pengguna | memasukan alamat | memudahkan menentukan alamat paket | ⭐⭐⭐⭐�
 pengguna | membeli produk | dapat menikmati produk | ⭐⭐⭐⭐⭐
 pengguna | melihat sejarah singkat pizza | mengetahui sejarah singkat pizza  | ⭐⭐⭐
 pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐
-
-
-
+pengguna | melihat produk terbaru | mengetahui produk terbaru | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
@@ -55,9 +53,7 @@ erDiagram
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
 ## 5. Teknologi, Library, dan Framework
-
-bla bla bla
-
+Untuk teknologi pendukung saya menggunakan Visual Studio Code 
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
