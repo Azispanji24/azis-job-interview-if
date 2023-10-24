@@ -8,6 +8,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 1. HTML,CSS dan JAVASCRIPT sebagai elemen dasar web
 2. dan saya menggunakan VISUAL STUDIO CODE sebagai pembuat programnya  
 
+
 ## 1.3. Branding
 
 •	nama merk: pizzjo
