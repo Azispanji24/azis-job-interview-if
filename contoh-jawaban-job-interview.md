@@ -28,7 +28,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 ## 2. User Story
 
 sebagai | saya ingin | sehingga | prioritas
-|---|---|---
+| --- | --- | ---
 pengguna | bisa melihat daftar produk | bisa memilih produk yang tersedia ditoko | ⭐⭐⭐⭐⭐
 | | |
 pengguna | mencari menu | memudahkan menemukan produk dalam menu | ⭐⭐⭐⭐⭐
