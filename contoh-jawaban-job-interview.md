@@ -25,12 +25,21 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 
 ## 2. User Story
 
-posisi | dapat | sehingga | prioritas
+sebagai | saya ingin | sehingga | prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
-bla | bla | bla | bla
+pengguna | bisa melihat daftar produk | bisa memilih produk yang tersedia ditoko | ⭐⭐⭐⭐⭐
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+pengguna | mencari menu | memudahkan menemukan produk dalam menu | ⭐⭐⭐⭐⭐
+---|---|---|---
+pengguna | memasukan alamat | memudahkan menentukan alamat paket | ⭐⭐⭐⭐⭐
+---|---|---|---
+pengguna | membeli produk | dapat menikmati produk | ⭐⭐⭐⭐⭐
+---|---|---|---
+pengguna | melihat sejarah singkat pizza | mengetahui sejarah singkat pizza  | ⭐⭐⭐⭐⭐
+---|---|---|---
+pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐⭐
+
+
 
 
 ## 3. Struktur Data
