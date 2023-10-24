@@ -38,7 +38,7 @@ pengguna | memasukan alamat | memudahkan menentukan alamat paket | ⭐⭐⭐⭐�
 pengguna | membeli produk | dapat menikmati produk | ⭐⭐⭐⭐⭐
 ---|---|---|---
 pengguna | melihat sejarah singkat pizza | mengetahui sejarah singkat pizza  | ⭐⭐⭐⭐⭐
----      |---                            |---                                |---
+| | |
 pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐⭐
 
 
