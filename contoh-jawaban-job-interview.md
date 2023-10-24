@@ -11,7 +11,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 
 ## 1.3. Branding
 
-•	nama merk: pizzjo
+•	nama merk: pizzjo                                                                                                        
 •	tagline: "viva la pizza"
 •	target user: Usia 18+
     -Seorang yang senang dengan makanan eropa 
@@ -30,11 +30,11 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 sebagai | saya ingin | sehingga | prioritas
 ---|---|---|---
 pengguna | bisa melihat daftar produk | bisa memilih produk yang tersedia ditoko | ⭐⭐⭐⭐⭐
-pengguna | mencari menu | memudahkan menemukan produk dalam menu | ⭐⭐⭐⭐⭐
+pengguna | mencari produk pada menu | memudahkan menemukan produk dalam menu | ⭐⭐⭐⭐⭐
 pengguna | memasukan alamat | memudahkan menentukan alamat paket | ⭐⭐⭐⭐⭐
 pengguna | membeli produk | dapat menikmati produk | ⭐⭐⭐⭐⭐
-pengguna | melihat sejarah singkat pizza | mengetahui sejarah singkat pizza  | ⭐⭐⭐⭐⭐
-pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐⭐
+pengguna | melihat sejarah singkat pizza | mengetahui sejarah singkat pizza  | ⭐⭐⭐
+pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐
 
 
 
