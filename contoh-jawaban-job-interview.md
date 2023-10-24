@@ -29,15 +29,19 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 
 sebagai | saya ingin | sehingga | prioritas
 ---|---|---|---
-pengguna | bisa melihat daftar produk | bisa memilih produk yang tersedia ditoko | ⭐⭐⭐⭐⭐
+pengguna | bisa melihat daftar produk | bisa memilih produk
+yang tersedia ditoko | ⭐⭐⭐⭐⭐
 ---|---|---|---
-pengguna | mencari menu | memudahkan menemukan produk dalam menu | ⭐⭐⭐⭐⭐
+pengguna | mencari menu | memudahkan 
+menemukan produk dalam menu | ⭐⭐⭐⭐⭐
 ---|---|---|---
-pengguna | memasukan alamat | memudahkan menentukan alamat paket | ⭐⭐⭐⭐⭐
+pengguna | memasukan alamat | memudahkan
+menentukan alamat paket | ⭐⭐⭐⭐⭐
 ---|---|---|---
 pengguna | membeli produk | dapat menikmati produk | ⭐⭐⭐⭐⭐
 ---|---|---|---
-pengguna | melihat sejarah singkat pizza | mengetahui sejarah singkat pizza  | ⭐⭐⭐⭐⭐
+pengguna | melihat sejarah singkat pizza | mengetahui sejarah 
+singkat pizza  | ⭐⭐⭐⭐⭐
 ---|---|---|---
 pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐⭐
 
