@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+
 
 ## 1.2. Deksripsi Teknologi Informasi
 
@@ -15,6 +15,7 @@ bla bla bla
 bla | bla | bla | bla
 ---|---|---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
+![pizza](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/8ecdfdfc-7dc0-45bd-b312-8b327399c95c)
 
 ## 3. Struktur Data
 
