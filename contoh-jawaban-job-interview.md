@@ -1,4 +1,4 @@
-## 1.1 Latar Belakang
+z## 1.1 Latar Belakang
 
 Perkembangan dalam bidang digital marketing terus berlanjut seiring dengan evolusi teknologi, perilaku konsumen, dan strategi pemasaran. Perkembangan digital marketing ini mencerminkan perubahan dalam perilaku konsumen dan teknologi yang semakin canggih. Pemasar yang sukses harus tetap up-to-date dengan tren ini dan mampu beradaptasi dengan cepat.
 
@@ -28,17 +28,17 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 ## 2. User Story
 
 sebagai | saya ingin | sehingga | prioritas
-| --- | --- | ---
+|---|---|---
 pengguna | bisa melihat daftar produk | bisa memilih produk yang tersedia ditoko | ⭐⭐⭐⭐⭐
-| --- | --- | ---
+|---|---|---
 pengguna | mencari menu | memudahkan menemukan produk dalam menu | ⭐⭐⭐⭐⭐
-| --- | --- | ---
+|---|---|---
 pengguna | memasukan alamat | memudahkan menentukan alamat paket | ⭐⭐⭐⭐⭐
-| --- | --- | ---
+|---|---|---
 pengguna | membeli produk | dapat menikmati produk | ⭐⭐⭐⭐⭐
-| --- | --- | ---
+|---|---|---
 pengguna | melihat sejarah singkat pizza | mengetahui sejarah singkat pizza  | ⭐⭐⭐⭐⭐
-| --- | --- | ---
+|---|---|---
 pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐⭐
 
 
