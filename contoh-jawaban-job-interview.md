@@ -1,14 +1,22 @@
 ## 1.1 Latar Belakang
 
-a
+Perkembangan dalam bidang digital marketing terus berlanjut seiring dengan evolusi teknologi, perilaku konsumen, dan strategi pemasaran. Perkembangan digital marketing ini mencerminkan perubahan dalam perilaku konsumen dan teknologi yang semakin canggih. Pemasar yang sukses harus tetap up-to-date dengan tren ini dan mampu beradaptasi dengan cepat.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
+1. HTML,CSS dan JAVASCRIPT sebagai elemen dasar web
+2. dan saya menggunakan VISUAL STUDIO CODE sebagai pembuat programnya  
 
 ## 1.3. Branding
-
-bla bla bla
+nama merk: pizzjo
+tagline: "viva la pizza"
+target user:
+Usia 18+
+Seorang yang suka menikmati makanan eropa khususnya pizza
+Seorang yang senang mengeksplorasi digital marketing
+Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
+Seorang yang ingin media cuitan alternatif yang lebih sehat
 
 ## 2. User Story
 
