@@ -9,9 +9,9 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 2. dan saya menggunakan VISUAL STUDIO CODE sebagai pembuat programnya  
 
 ## 1.3. Branding
-•nama merk: pizzjo
-•tagline: "viva la pizza"
-•target user:
+• nama merk: pizzjo
+• tagline: "viva la pizza"
+• target user:
   -Usia 18+
   -Seorang yang suka menikmati makanan eropa khususnya pizza
   -Seorang yang senang mengeksplorasi digital marketing
