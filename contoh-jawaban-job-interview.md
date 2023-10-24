@@ -25,6 +25,10 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 bla | bla | bla | bla
 ---|---|---|---
 bla | bla | bla | ⭐⭐⭐⭐⭐
+bla | bla | bla | bla
+---|---|---|---
+bla | bla | bla | ⭐⭐⭐⭐⭐
+
 
 ## 3. Struktur Data
 
