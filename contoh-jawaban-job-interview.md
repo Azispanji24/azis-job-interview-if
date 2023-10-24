@@ -12,7 +12,12 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 
 •	nama merk: pizzjo
 •	tagline: "viva la pizza"
-•	target user:
+•	target user: Usia 7+
+    Seorang yang senang berbagi inspirasi dan informasi baru
+    Seorang yang senang mengeksplorasi inspirasi dan informasi baru
+    Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
+    Seorang yang ingin media cuitan alternatif yang lebih sehat
+
 
 
 ## 2. User Story
