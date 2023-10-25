@@ -70,7 +70,7 @@ pengguna | memesan orderan karya online | memenuhi pesanan client,seperti logo l
     - Status Transaksi : Status transaksi (misalnya sedang diproses, berhasil, dibatalkan, dll.).
     - Jumlah Pembayaran : Jumlah pembayaran yang dilakukan dalam transaksi.
     - jumlah karya : jumlah karya yang dibeli
-    - 
+      
 ```mermaid
 erDiagram
     RUJAK ||--o{ SAYUR : tersusun
