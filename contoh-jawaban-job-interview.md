@@ -26,6 +26,8 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
    - Sederhana
    - Menyenangkan
    - Inspirasi desain:
+   - ![Top 20 Ecommerce App UI Design Inspiration #1 — UI Place](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/8c84cf0e-621e-4784-ac12-7f399400e691)
+
   
 
 
