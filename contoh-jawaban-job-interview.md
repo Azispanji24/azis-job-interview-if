@@ -26,6 +26,9 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
    - Menyenangkan
    - Inspirasi desain:
    - https://www.figma.com/file/En5Fnpc5K4flGPNNQldqI2/Untitled?type=design&node-id=0-1&mode=design&t=T9i1exErHv27IhIY-0
+     ![pizzjo](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/f645b553-1b80-45d7-bc1b-b9e79cda5923)
+
+
 
 
 ## 2. User Story
