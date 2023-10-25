@@ -54,8 +54,8 @@ pengguna | melihat produk terbaru | mengetahui produk terbaru | ⭐⭐⭐⭐
    - 
 ```mermaid
 erDiagram
-    produk ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ produk : beli
+    RUJAK ||--o{ SAYUR : tersusun
+    PEMBELI ||--|{ RUJAK : beli
 ```
 
 ## 4. Arsitektur Sistem
