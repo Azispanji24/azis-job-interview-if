@@ -26,6 +26,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
    - Menyenangkan
    - Inspirasi desain:
    ![Screenshot (14)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/1033578f-27c6-4669-9200-10a6a3d67df2)
+![Screenshot (15)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/ec53b67e-b45d-4150-a515-0de2d44af4e3)
 
 
 
