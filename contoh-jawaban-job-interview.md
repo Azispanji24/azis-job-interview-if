@@ -24,7 +24,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
    - Mudah
    - Sederhana
    - Menyenangkan
-   - Inspirasi desain:
+   - Inspirasi desain:https://www.figma.com/file/En5Fnpc5K4flGPNNQldqI2/Untitled?type=design&node-id=0-1&mode=design&t=T9i1exErHv27IhIY-0
 
 
 ## 2. User Story
