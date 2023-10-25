@@ -51,10 +51,26 @@ pengguna | memesan orderan karya online | memenuhi pesanan client,seperti logo l
 
 ## 3. Struktur Data
 
-1. pengguna
-   - 
-   - 
-   - 
+1. pengguna                                                                                                        
+    - ID Pengguna : ID untuk mengidentifikasi setiap pengguna.
+    - Nama Pengguna : Nama pengguna yang digunakan untuk login.
+    - Kata Sandi : Kata sandi yang dienkripsi untuk keamanan.
+    - Nama Lengkap : Nama lengkap pengguna.
+    - Alamat Email : Alamat email pengguna untuk komunikasi.
+    - Nomor Telepon : Nomor telepon yang bisa dihubungi.
+    - Daftar Karya Seni yang Dimiliki : Referensi ke karya seni yang dimiliki oleh pengguna.
+    - Daftar Transaksi : Referensi ke transaksi yang telah dilakukan oleh pengguna.
+2. karya seni
+    - Judul : Judul karya seni.
+    - Deskripsi : Deskripsi karya seni.
+    - Seniman : Informasi tentang seniman yang menciptakan karya seni.
+    - Harga : Harga yang diminta untuk karya seni.
+    - Kategori : Kategori karya seni (misalnya lukisan, patung, fotografi, dll.).
+3. transaksi                                                                                                              - Tanggal Transaksi : Tanggal transaksi dilakukan.
+    - Status Transaksi : Status transaksi (misalnya sedang diproses, berhasil, dibatalkan, dll.).
+    - Jumlah Pembayaran : Jumlah pembayaran yang dilakukan dalam transaksi.
+    - jumlah karya : jumlah karya yang dibeli
+    - 
 ```mermaid
 erDiagram
     RUJAK ||--o{ SAYUR : tersusun
