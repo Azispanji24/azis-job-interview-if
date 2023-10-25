@@ -13,7 +13,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 ## 1.3. Branding
 
 - nama merk : pizzjo                                                                                                   
-- tagline : "viva la pizza"                                                                                            
+- tagline : "memudahkan penikmat pizza membeli pizza "                                                                  
 - target user:
     - Usia 18+                                                                                                
     - Seorang yang senang dengan makanan eropa                                                                         
@@ -48,8 +48,10 @@ pengguna | melihat produk terbaru | mengetahui produk terbaru | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
+1. pengguna
+   - 
+   - 
+   - 
 ```mermaid
 erDiagram
     produk ||--o{ SAYUR : tersusun
@@ -63,10 +65,7 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 ## 5. Teknologi, Library, dan Framework
 Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma 
 ## 6. Desain User Experience dan User Interface
-![Screenshot (11)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/086d3fc6-ea51-4b2b-982a-d97bdc0ddd83)
-![Screenshot (10)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/7e78f6ff-d9f2-45f2-827a-3ff8c345011b)
-![Screenshot (13)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/18b17ab3-035f-4f7c-a841-5819dd245ba8)
-![Screenshot (9)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/cad9ee6a-49cf-49b3-bae6-97cc1392bc73)
+
 
 Link youtube nya
 
