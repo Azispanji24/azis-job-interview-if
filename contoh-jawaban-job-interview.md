@@ -1,7 +1,6 @@
 ## 1.1 Latar Belakang
 
-Perkembangan dalam bidang digital marketing terus berlanjut seiring dengan evolusi teknologi, perilaku konsumen, dan strategi pemasaran. Perkembangan digital marketing ini mencerminkan perubahan dalam perilaku konsumen dan teknologi yang semakin canggih. Pemasar yang sukses harus tetap up-to-date dengan tren ini dan mampu beradaptasi dengan cepat,hal ini salah satu penyebab membuat website ini.
-
+indonesia kaya akan suku,budaya dan kekeyaan alam.indonesia juga memiliki banyak seni budaya,baik seni rupa lukis,mural dan masih banyak lagi. karena tuhan memberikan kita keahlian dalam bidang atau bakat masing-masing,sayangnya banyak anak bangsa yang mempunyai keahlian lebih dalam seni, tapi terpendam sia-sia,karena banyak yang berfikir bahwa seni hanya sedikit kelebihan yang tuhan berikan,padahal menurut saya seni adalah karunia besar yang tuhan berikan pada kita,jika terus kita kembangkan,dan belum tentu dimiliki orang lain,hal ini memjadi salah satu penyebab saya membuat aplikasi ini                              
 ## 1.2. Deksripsi Teknologi Informasi
 
 di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
@@ -13,21 +12,21 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 ## 1.3. Branding
 
 - nama merk :                                                                                                  
-- tagline :  "viva la pizza"                                                               
-- target user:
+- tagline :                                               
+- target user: 
     - Usia 18+                                                                                                
-    - Seorang yang senang dengan makanan eropa                                                                         
-    - Seorang yang senang mengeksplorasi marketing digital
-    - Seorang yang ingin atau sudah memiliki sikap bertanggung jawab
-    - Seorang yang ingin media cuitan alternatif yang lebih sehat
+    - Seorang yang mencintai seni                                                                          
+    - Seorang yang tidak ingin menjadikan bakat seninya sia-sia
+    - Seorang yang ingin mengajar atau mempelajari lebih tentang seni
+    - Seorang yang mempunyai bakat lebih di seni dan freelance
+    - seorang yang ingin menjual atau membeli karya seni
+    - seorang yang bersedia untuk ketika mendapat orderan untuk membuat karya seni 
 - User experience theme:
    - Mudah
    - Sederhana
    - Menyenangkan
    - Inspirasi desain:
-   ![Screenshot (14)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/1033578f-27c6-4669-9200-10a6a3d67df2)
-![Screenshot (15)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/ec53b67e-b45d-4150-a515-0de2d44af4e3)
-
+  
 
 
 
@@ -38,13 +37,17 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 
 sebagai | saya ingin | sehingga | prioritas
 ---|---|---|---
-pengguna | bisa melihat daftar produk | bisa memilih produk yang tersedia ditoko | ⭐⭐⭐⭐⭐
-pengguna | mencari produk pada menu | memudahkan menemukan produk dalam menu | ⭐⭐⭐⭐⭐
-pengguna | memasukan alamat | memudahkan menentukan alamat paket | ⭐⭐⭐⭐⭐
-pengguna | membeli produk | dapat menikmati produk | ⭐⭐⭐⭐⭐
-pengguna | melihat sejarah singkat pizza | mengetahui sejarah singkat pizza  | ⭐⭐⭐
+pengguna | bisa melihat karya orang lain | bisa memilih karya orang lain | ⭐⭐⭐⭐⭐
+pengguna | mencari karya orang lain | memudahkan menemukan karya orang lain | ⭐⭐⭐⭐⭐
+pengguna | membuat akun | terdaftar dan bisa dilihat public | ⭐⭐⭐⭐⭐
+pengguna | memesan orderan | membuat karya seni atau mural di tempat yang ditentukan client | ⭐⭐⭐⭐⭐
+pengguna | mendapat orderan | bersedia memenuhi pesanan client | ⭐⭐⭐
 pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐
 pengguna | melihat produk terbaru | mengetahui produk terbaru | ⭐⭐⭐⭐
+pengguna | memasukan alamat | mengetahui dan memudahkan memenuhi pesanan client | ⭐⭐⭐⭐
+pengguna | mengajarkan seni,lukis,mural,dll dalam bentuk video | memudahkan pecinta seni mengembangkan karyanya | ⭐⭐⭐⭐
+pengguna | memesan orderan karya online | memenuhi pesanan client,seperti logo lambang dll | ⭐⭐⭐⭐
+
 
 ## 3. Struktur Data
 
