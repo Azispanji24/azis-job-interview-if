@@ -63,10 +63,11 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
-
-## 7. Demonstrasi Video
+https://github.com/Azispanji24/azis-job-interview-if/blob/main/contoh-jawaban-job-interview.md
+![Screenshot (11)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/086d3fc6-ea51-4b2b-982a-d97bdc0ddd83)
+![Screenshot (10)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/7e78f6ff-d9f2-45f2-827a-3ff8c345011b)
+![Screenshot (13)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/18b17ab3-035f-4f7c-a841-5819dd245ba8)
+![Screenshot (9)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/cad9ee6a-49cf-49b3-bae6-97cc1392bc73)
 
 Link youtube nya
 
