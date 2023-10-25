@@ -86,9 +86,9 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 ## 5. Teknologi, Library, dan Framework
 Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma 
 ## 6. Desain User Experience dan User Interface
+https://www.figma.com/file/2nB9xwTZhvrbedETgT8ArN/Untitled?type=design&mode=design&t=THWToSoq2xTJ6GZC-0
+![Untitled](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/063ddeb3-5b3f-4619-9a5a-f5b8822e21e6)
 
-
-Link youtube nya
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
