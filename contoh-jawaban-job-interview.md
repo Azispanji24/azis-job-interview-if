@@ -52,8 +52,8 @@ Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [htt
 
 ```mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    produk ||--o{ SAYUR : tersusun
+    PEMBELI ||--|{ produk : beli
 ```
 
 ## 4. Arsitektur Sistem
@@ -63,7 +63,6 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 ## 5. Teknologi, Library, dan Framework
 Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma 
 ## 6. Desain User Experience dan User Interface
-- https://www.figma.com/file/En5Fnpc5K4flGPNNQldqI2/pizzjo?type=design&node-id=0-1&mode=design&t=F956HBZBjla41rY8-0
 ![Screenshot (11)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/086d3fc6-ea51-4b2b-982a-d97bdc0ddd83)
 ![Screenshot (10)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/7e78f6ff-d9f2-45f2-827a-3ff8c345011b)
 ![Screenshot (13)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/18b17ab3-035f-4f7c-a841-5819dd245ba8)
