@@ -6,7 +6,8 @@ Perkembangan dalam bidang digital marketing terus berlanjut seiring dengan evolu
 
 di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 1. HTML,CSS dan JAVASCRIPT sebagai elemen dasar web
-2. dan saya menggunakan VISUAL STUDIO CODE sebagai pembuat programnya  
+2. dan saya menggunakan VISUAL STUDIO CODE sebagai pembuat programnya
+3. untuk design nya saya menggunakan figma 
 
 
 ## 1.3. Branding
@@ -53,7 +54,7 @@ erDiagram
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
 ## 5. Teknologi, Library, dan Framework
-Untuk teknologi pendukung saya menggunakan Visual Studio Code 
+Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma 
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
