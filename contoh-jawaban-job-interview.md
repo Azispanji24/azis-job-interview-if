@@ -50,9 +50,6 @@ pengguna | memasukan alamat | mengetahui dan memudahkan memenuhi pesanan client 
 pengguna | mengajarkan seni,lukis,mural,dll dalam bentuk video | memudahkan pecinta seni mengembangkan karyanya | ⭐⭐⭐⭐
 pengguna | memesan orderan karya online | memenuhi pesanan client,seperti logo lambang dll | ⭐⭐⭐⭐
 
-
-## 3. Struktur Data
-
 1. pengguna                                                                                                        
     - ID Pengguna : ID untuk mengidentifikasi setiap pengguna.
     - Nama Pengguna : Nama pengguna yang digunakan untuk login.
@@ -72,6 +69,9 @@ pengguna | memesan orderan karya online | memenuhi pesanan client,seperti logo l
     - Status Transaksi : Status transaksi (misalnya sedang diproses, berhasil, dibatalkan, dll.).
     - Jumlah Pembayaran : Jumlah pembayaran yang dilakukan dalam transaksi.
     - jumlah karya : jumlah karya yang dibeli
+## 3. Struktur Data
+
+
       
 ```mermaid
 erDiagram
