@@ -74,9 +74,28 @@ pengguna | memesan orderan karya online | memenuhi pesanan client,seperti logo l
 
       
 ```mermaid
+
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    PENGGUNA ||--o{ PEMESANAN : pesan
+    PENGGUNA {
+        string id_pengguna
+        string nama_lengkap
+        string email
+    }
+    PEMESANAN {
+        string pemesanan
+        string id_pengguna
+        int tipe_pemesanan
+        string id_pengendara
+        timestamp waktu_pemesanan
+    }
+    PENGENDARA ||--o{ PEMESANAN : melayani
+    PENGENDARA {
+        string id_pengendara
+        string nama_lengkap
+        string email
+    }
+
 ```
 
 ## 4. Arsitektur Sistem
