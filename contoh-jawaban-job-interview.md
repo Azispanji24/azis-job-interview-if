@@ -11,8 +11,8 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 
 ## 1.3. Branding
 
-- nama merk :                                                                                                  
-- tagline :                                               
+- nama merk : Sart                                                                                                 
+- tagline : "menghidupkan para seniman"                                              
 - target user: 
     - Usia 18+                                                                                                
     - Seorang yang mencintai seni                                                                          
