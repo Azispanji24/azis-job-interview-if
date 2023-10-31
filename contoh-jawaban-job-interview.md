@@ -86,11 +86,11 @@ erDiagram
         string pemesanan
         string id_pengguna
         int tipe_pemesanan
-        string id_pengendara
+        string id_seniman
         timestamp waktu_pemesanan
     }
-    PENGENDARA ||--o{ PEMESANAN : melayani
-    PENGENDARA {
+    SENIMAN ||--o{ PEMESANAN : melayani
+    SENIMAN {
         string id_pengendara
         string nama_lengkap
         string email
