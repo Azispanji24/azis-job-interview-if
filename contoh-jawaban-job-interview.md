@@ -99,6 +99,7 @@ erDiagram
 ```
 
 ## 4. Arsitektur Sistem
+memekai hardware,dan software
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
