@@ -12,7 +12,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 ## 1.3. Branding
 
 - nama merk : Sart                                                                                                 
-- tagline : "menghidupkan para seniman"                                              
+- tagline : "seniman tidak boleh mati!"                                              
 - target user: 
     - Usia 18+                                                                                                
     - Seorang yang mencintai seni                                                                          
@@ -41,14 +41,20 @@ sebagai | saya ingin | sehingga | prioritas
 ---|---|---|---
 pengguna | bisa melihat karya orang lain | bisa memilih karya orang lain | ⭐⭐⭐⭐⭐
 pengguna | mencari karya orang lain | memudahkan menemukan karya orang lain | ⭐⭐⭐⭐⭐
-pengguna | membuat akun | terdaftar dan bisa dilihat public | ⭐⭐⭐⭐⭐
+pengguna | membuat akun | terdaftar dalam data base | ⭐⭐⭐⭐⭐
+pengguna | memberi nama pada input pengguna | mengisi nama sesuai keinginan pengguna | ⭐⭐⭐⭐
 pengguna | memesan orderan | membuat karya seni atau mural di tempat yang ditentukan client | ⭐⭐⭐⭐⭐
 pengguna | mendapat orderan | bersedia memenuhi pesanan client | ⭐⭐⭐
 pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐
 pengguna | melihat produk terbaru | mengetahui produk terbaru | ⭐⭐⭐⭐
 pengguna | memasukan alamat | mengetahui dan memudahkan memenuhi pesanan client | ⭐⭐⭐⭐
 pengguna | mengajarkan seni,lukis,mural,dll dalam bentuk video | memudahkan pecinta seni mengembangkan karyanya | ⭐⭐⭐⭐
-pengguna | memesan orderan karya online | memenuhi pesanan client,seperti logo lambang dll | ⭐⭐⭐⭐
+pengguna | memesan orderan karya online | memenuhi pesanan client | ⭐⭐⭐⭐
+pengguna | maenghubungi seniman | memudahkan transaksi atau orderan | ⭐⭐⭐⭐
+pengguna | membatalkan orderan karya online | pesanan client dibatalkan | ⭐⭐⭐⭐
+pengguna | meng-edit profil | profil dapat diedit sesuai keinginan pengguna | ⭐⭐⭐⭐
+pengguna | meng-edit profil | profil dapat diedit sesuai keinginan pengguna | ⭐⭐⭐⭐
+
 
 1. pengguna                                                                                                        
     - ID Pengguna : ID untuk mengidentifikasi setiap pengguna.
