@@ -104,7 +104,7 @@ erDiagram
     }
     SENIMAN ||--o{ PEMESANAN : melayani
     SENIMAN {
-        string id_pengendara
+        string id_seniman
         string nama_lengkap
         string email
     }
