@@ -120,6 +120,7 @@ Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma
 ## 6. Desain User Experience dan User Interface
 ## link figma
 (https://www.figma.com/file/2nB9xwTZhvrbedETgT8ArN/Untitled?type=design&node-id=0-1&mode=design&t=5dLOo2zTx2nKlsiA-0)
+![Screenshot (18)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/1b0283cf-9be2-4ef2-9c03-b1ce4b8b6b78)
 
 ## 7. Demonstrasi video
 
