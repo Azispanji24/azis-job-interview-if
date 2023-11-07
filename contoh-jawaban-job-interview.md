@@ -9,6 +9,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 3. untuk design nya saya menggunakan figma 
 
 
+
 ## 1.3. Branding
 
 - nama merk : Sart                                                                                                 
@@ -26,7 +27,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
    - Sederhana
    - Menyenangkan
    - Inspirasi desain:
-   - ![Top 20 Ecommerce App UI Design Inspiration #1 — UI Place](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/8c84cf0e-621e-4784-ac12-7f399400e691)
+   - ![AIP DESIGN on Behance](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/f155c98e-c5eb-441f-bb0b-57c8aa30f3d8)
 
   
 
