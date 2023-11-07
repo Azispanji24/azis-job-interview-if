@@ -39,15 +39,16 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 
 sebagai | saya ingin | sehingga | prioritas
 ---|---|---|---
-pengguna | bisa melihat karya orang lain | bisa memilih karya orang lain | ⭐⭐⭐⭐⭐
-pengguna | mencari karya orang lain | memudahkan menemukan karya orang lain | ⭐⭐⭐⭐⭐
+pengguna | melihat karya orang lain | dapat melihat karya orang lain | ⭐⭐⭐⭐⭐
+pengguna | mencari karya akun seniman lain | dapat menemukan karya orang lain | ⭐⭐⭐⭐⭐
 pengguna | membuat akun | terdaftar dalam data base | ⭐⭐⭐⭐⭐
 pengguna | memberi nama pada input pengguna | mengisi nama sesuai keinginan pengguna | ⭐⭐⭐⭐
+pengguna | mendaftarkan no hp | no hp terdaftar pada akun pengguna  | ⭐⭐⭐⭐⭐
+pengguna | memasukan alamat | alamat terdaftar pada data base dan memudahkan memenuhi pesanan client | ⭐⭐⭐⭐
 pengguna | memesan orderan | membuat karya seni atau mural di tempat yang ditentukan client | ⭐⭐⭐⭐⭐
 pengguna | mendapat orderan | bersedia memenuhi pesanan client | ⭐⭐⭐
-pengguna | melihat harga produk | mengetahui harga | ⭐⭐⭐⭐
+pengguna | melihat harga produk jika terdaftar pada deskripsi | mengetahui harga | ⭐⭐⭐⭐
 pengguna | melihat produk terbaru | mengetahui produk terbaru | ⭐⭐⭐⭐
-pengguna | memasukan alamat | mengetahui dan memudahkan memenuhi pesanan client | ⭐⭐⭐⭐
 pengguna | mengajarkan seni,lukis,mural,dll dalam bentuk video | memudahkan pecinta seni mengembangkan karyanya | ⭐⭐⭐⭐
 pengguna | memesan orderan karya online | memenuhi pesanan client | ⭐⭐⭐⭐
 pengguna | maenghubungi seniman | memudahkan transaksi atau orderan | ⭐⭐⭐⭐
@@ -59,6 +60,7 @@ pengguna | mengedit video dan foto sebrlum di upload | pengguna dapat meng-edit 
 pengguna | menghapus video dan foto yang telah di-upload | video dan foto dapat dihapus | ⭐⭐⭐⭐
 pengguna | memberi like untuk hasil upload video dan foto orang lain | video dan foto orang lain dapat di like |⭐⭐⭐⭐⭐
 pengguna | mengkomentari video dan foto karya seniman | video dan foto seniman dapat dikomentari pengguna lain | ⭐⭐⭐⭐⭐
+pengguna | mengubah ke dark mode | aplikasi menjadi dark mode | ⭐⭐⭐⭐⭐
 
 1. pengguna                                                                                                        
     - ID Pengguna : ID untuk mengidentifikasi setiap pengguna.
