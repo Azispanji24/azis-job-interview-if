@@ -57,7 +57,7 @@ pengguna | meng-edit profil | profil dapat diedit sesuai keinginan pengguna | �
 pengguna | meng-upload video dan foto hasil karya seniman | video dan foto hasil karya seniman dapat dilihat pengguna lainnya | ⭐⭐⭐⭐⭐
 pengguna | mengedit video dan foto sebrlum di upload | pengguna dapat meng-edit sesuai keinginan pengguna | ⭐⭐⭐⭐
 pengguna | menghapus video dan foto yang telah di-upload | video dan foto dapat dihapus | ⭐⭐⭐⭐
-pengguna | memberi like untuk hasil upload video dan foto orang lain | video dan foto orang lain dapat di like ⭐⭐⭐⭐⭐
+pengguna | memberi like untuk hasil upload video dan foto orang lain | video dan foto orang lain dapat di like |⭐⭐⭐⭐⭐
 pengguna | mengkomentari video dan foto karya seniman | video dan foto seniman dapat dikomentari pengguna lain | ⭐⭐⭐⭐⭐
 
 1. pengguna                                                                                                        
