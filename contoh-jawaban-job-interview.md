@@ -13,7 +13,7 @@ di aplikasi kali ini saya menggunakan beberapa teknologi informasi yaitu
 ## 1.3. Branding
 
 - nama merk : Sart                                                                                                 
-- tagline : "seniman tidak boleh mati!"                                              
+- tagline : "Earth without art just eh"                                              
 - target user: 
     - Usia 18+                                                                                                
     - Seorang yang mencintai seni                                                                          
