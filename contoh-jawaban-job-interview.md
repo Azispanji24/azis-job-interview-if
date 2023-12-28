@@ -127,6 +127,7 @@ Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 https://youtu.be/HRzMvnfzT_4
+
 Mesin komputasi dan sistem operasi memainkan peran penting dalam eksekusi dan pengoperasian produk teknologi informasi yang menggunakan HTML, CSS, dan JavaScript. Berikut adalah cara keduanya berinteraksi dengan teknologi web:
 
 Mesin Komputasi:
@@ -163,8 +164,8 @@ Penting untuk dicatat bahwa HTML, CSS, dan JavaScript sendiri bersifat platform-
 
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
-
 https://youtu.be/WOG3vkvEpNo
+
 Algoritma, struktur data, dan bahasa pemrograman berperan penting dalam pengembangan produk teknologi informasi pada web, termasuk dalam penggunaan HTML, CSS, dan JavaScript. Berikut adalah bagaimana ketiga konsep tersebut berkontribusi dalam pembuatan dan optimalisasi produk web:
 
 1. Algoritma:
@@ -186,6 +187,7 @@ Misalnya, jika Anda mengembangkan fitur pencarian pada situs web Anda, Anda dapa
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 https://youtu.be/cpJJkrr65Q0
+
 Metode Pengembangan Perangkat Lunak (Software Development Life Cycle atau SDLC) berperan penting dalam pengembangan produk teknologi informasi, termasuk dalam konteks pengembangan situs web atau aplikasi web yang menggunakan HTML, CSS, dan JavaScript. SDLC memberikan kerangka kerja dan proses yang terstruktur untuk mengelola dan mengarahkan setiap tahapan dalam siklus pengembangan perangkat lunak. Berikut adalah beberapa cara SDLC berperan dalam produk teknologi informasi Anda:
 
 Perencanaan (Planning):
@@ -224,6 +226,8 @@ Metode SDLC membantu dalam merencanakan, melaksanakan, dan mengelola proyek peng
 
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+https://youtu.be/VKCG9dQJefw
+
 Database atau sistem basis data memiliki peran penting dalam produk teknologi informasi, terutama jika produk tersebut melibatkan pengelolaan dan penyimpanan data. Dalam konteks HTML, CSS, dan JavaScript, database berperan sebagai penyimpanan data yang dapat diakses, diambil, dan dimanipulasi oleh aplikasi web. Berikut adalah beberapa cara database berinteraksi dengan HTML, CSS, dan JavaScript:
 
 1. Penyimpanan dan Pengambilan Data:
