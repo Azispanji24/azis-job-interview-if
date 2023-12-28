@@ -128,11 +128,10 @@ Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 https://youtu.be/HRzMvnfzT_4
 
-Link youtube nya di detik jawaban ini
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 
-Link youtube nya di detik jawaban ini
+https://youtu.be/WOG3vkvEpNo
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
