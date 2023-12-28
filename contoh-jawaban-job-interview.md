@@ -126,6 +126,7 @@ Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma
 ## 7. Demonstrasi video
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
+https://youtu.be/HRzMvnfzT_4
 
 Link youtube nya di detik jawaban ini
 
