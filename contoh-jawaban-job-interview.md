@@ -124,6 +124,7 @@ Untuk teknologi pendukung saya menggunakan Visual Studio Code,dan figma
 ![Screenshot (18)](https://github.com/Azispanji24/azis-job-interview-if/assets/144518898/1b0283cf-9be2-4ef2-9c03-b1ce4b8b6b78)
 
 ## 7. Demonstrasi video
+https://youtu.be/d3bl1NW4TnA
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 https://youtu.be/HRzMvnfzT_4
